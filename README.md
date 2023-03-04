@@ -5,7 +5,7 @@ const Icon7 = {
     pronouns: "he" | "his",
     code: [Javascript, HTML, CSS],
     editors: [VS Code, Sublime Text 3],
-    learning: [Python, lua],
+    learning: [Python, lua, java],
 };
 
 if(success == false){
